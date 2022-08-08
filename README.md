@@ -17,6 +17,6 @@ TODO-List-App uses a number of open source projects to work properly:
 
 Install the dependencies and devDependencies and start the server.
 
-$ cd ../to_do_list
-$ npm install
-$ npm start
+* cd ../to_do_list
+* npm install
+* npm start
